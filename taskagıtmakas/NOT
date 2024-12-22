@@ -1,0 +1,16 @@
+NASIL ÇALIŞTIRILIR:
+
+SERVER:
+
+cd Desktop/taskagıtmakas
+
+% gcc server.c -o server 
+
+./server  
+
+CLIENT:
+cd Desktop/taskagıtmakas
+
+gcc client.c -o client   
+./client
+
